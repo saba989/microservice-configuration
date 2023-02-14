@@ -1,6 +1,6 @@
 spring:
  application:
-  name: Confiq-Server
+  name: Confiq-Default
 eureka:
   instance:
     prefer-ip-address: true
